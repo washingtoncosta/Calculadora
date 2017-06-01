@@ -1,0 +1,36 @@
+c:\users\alexandre\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\alexandre\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\alexandre\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\alexandre\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\alexandre\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+c:\users\alexandre\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\alexandre\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\alexandre\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\alexandre\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+E:\EXECUTAVEIS LIBERADOS\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\EXECUTAVEIS LIBERADOS\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\EXECUTAVEIS LIBERADOS\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\EXECUTAVEIS LIBERADOS\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\EXECUTAVEIS LIBERADOS\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\EXECUTAVEIS LIBERADOS\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\EXECUTAVEIS LIBERADOS\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+E:\EXECUTAVEIS LIBERADOS\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\EXECUTAVEIS LIBERADOS\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\Alexandre_Washington-20170601T225131Z-001\Alexandre_Washington\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Alexandre_Washington-20170601T225131Z-001\Alexandre_Washington\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Alexandre_Washington-20170601T225131Z-001\Alexandre_Washington\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Alexandre_Washington-20170601T225131Z-001\Alexandre_Washington\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Alexandre_Washington-20170601T225131Z-001\Alexandre_Washington\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Alexandre_Washington-20170601T225131Z-001\Alexandre_Washington\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Alexandre_Washington-20170601T225131Z-001\Alexandre_Washington\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Alexandre_Washington-20170601T225131Z-001\Alexandre_Washington\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Alexandre_Washington-20170601T225131Z-001\Alexandre_Washington\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
